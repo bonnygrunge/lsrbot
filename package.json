@@ -1,0 +1,16 @@
+{
+    "name": "lsrbot",
+    "version": "1.0.0",
+    "description": "Los Santos Realism Discord Bot",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "bonnygrunge",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^14.12.1",
+      "dotenv": "^16.3.1"
+    }
+  }
+  
